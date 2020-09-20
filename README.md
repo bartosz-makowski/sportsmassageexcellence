@@ -3,8 +3,7 @@
 
 ## Contents:book:
 ### UX:superhero_man:	
-  * **Project Goals** :jigsaw:	
-  * **Project Goals** :jigsaw:	
+  * **Project Goals** :jigsaw:		
   * **Target Audience Goals** 	:dart:
   * **Site Owner Goals**  	:dart:
   * **User Requirements and Expectations** 	:dart:
