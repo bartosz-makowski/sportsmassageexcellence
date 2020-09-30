@@ -9,3 +9,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.6rem;
 }
+
+.welcome {
+    background-image: url('/assets/images/heroimage.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
